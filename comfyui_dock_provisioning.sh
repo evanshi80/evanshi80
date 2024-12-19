@@ -19,13 +19,13 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    # "https://github.com/ltdrdata/ComfyUI-Manager"
+    "https://github.com/ltdrdata/ComfyUI-Manager"
     # "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     # "https://github.com/Fannovel16/comfyui_controlnet_aux"
     # "https://github.com/chrisgoringe/cg-use-everywhere"
     # "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
-    # "https://github.com/yolain/ComfyUI-Easy-Use"
+    "https://github.com/yolain/ComfyUI-Easy-Use"
     # "https://github.com/kijai/ComfyUI-IC-Light"
     # "https://github.com/kijai/ComfyUI-KJNodes"
     # "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
