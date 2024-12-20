@@ -38,8 +38,8 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/261539?type=Model&format=SafeTensor&size=full&fp=fp16"
-    "https://civitai.com/api/download/models/269280?type=Model&format=SafeTensor&size=full&fp=fp16"
+    # "https://civitai.com/api/download/models/261539?type=Model&format=SafeTensor&size=full&fp=fp16"
+    # "https://civitai.com/api/download/models/269280?type=Model&format=SafeTensor&size=full&fp=fp16"
     #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
@@ -61,10 +61,10 @@ VAE_MODELS=(
 )
 
 ESRGAN_MODELS=(
-    "https://huggingface.co/ai-forever/Real-ESRGAN/blob/main/RealESRGAN_x2.pth"
-    "https://huggingface.co/ai-forever/Real-ESRGAN/blob/main/RealESRGAN_x4.pth"
-    "https://huggingface.co/Afizi/ESRGAN_4x.pth/blob/main/ESRGAN_4x.pth"
-    "https://huggingface.co/Kim2091/UltraSharp/blob/main/4x-UltraSharp.pth"
+    # "https://huggingface.co/ai-forever/Real-ESRGAN/blob/main/RealESRGAN_x2.pth"
+    # "https://huggingface.co/ai-forever/Real-ESRGAN/blob/main/RealESRGAN_x4.pth"
+    # "https://huggingface.co/Afizi/ESRGAN_4x.pth/blob/main/ESRGAN_4x.pth"
+    # "https://huggingface.co/Kim2091/UltraSharp/blob/main/4x-UltraSharp.pth"
     # "https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth"
     # "https://huggingface.co/Akumetsu971/SD_Anime_Futuristic_Armor/resolve/main/4x_NMKD-Siax_200k.pth"
 )
@@ -73,9 +73,9 @@ CONTROLNET_MODELS=(
     # "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_canny_mid.safetensors"
     # "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_depth_mid.safetensors?download"
     # "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_openpose.safetensors"
-    "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main/control_v11p_sd15_canny_fp16.safetensors"
-    "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main/control_v11p_sd15_inpaint_fp16.safetensors"
-    "https://huggingface.co/hr16/ControlNet-HandRefiner-pruned/blob/main/control_sd15_inpaint_depth_hand_fp16.safetensors"
+    # "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main/control_v11p_sd15_canny_fp16.safetensors"
+    # "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main/control_v11p_sd15_inpaint_fp16.safetensors"
+    # "https://huggingface.co/hr16/ControlNet-HandRefiner-pruned/blob/main/control_sd15_inpaint_depth_hand_fp16.safetensors"
     # "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_hed-fp16.safetensors"
     # "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_mlsd-fp16.safetensors"
     # "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_normal-fp16.safetensors"
